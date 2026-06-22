@@ -5,16 +5,9 @@
   "display": "standalone",
   "background_color": "#0b1c31",
   "theme_color": "#0b1c31",
-  "icons": [<svg id="logo-receipt" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160">
-          <rect x="0" y="0" width="160" height="160" fill="#0F1B2D" rx="24"/>
-          <!-- Receipt Paper -->
-          <rect x="48" y="38" width="64" height="84" rx="6" fill="#F8FAFC"/>
-          <!-- Receipt Lines -->
-          <rect x="62" y="56" width="36" height="6" rx="3" fill="#CBD5E1"/>
-          <rect x="62" y="70" width="20" height="6" rx="3" fill="#CBD5E1"/>
-          <!-- Lime Green Circle Cutout -->
-          <circle cx="106" cy="116" r="18" fill="#A8E63D" stroke="#0F1B2D" stroke-width="6"/>
-        </svg>]
+  "icons": [
+    {
+      "src": "logo.png"
       "sizes": "160x160",
       "type": "image/svg"
     }
