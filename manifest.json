@@ -16,7 +16,7 @@
           <rect x="62" y="70" width="20" height="6" rx="3" fill="#CBD5E1"/>
           <!-- Lime Green Circle Cutout -->
           <circle cx="106" cy="116" r="18" fill="#A8E63D" stroke="#0F1B2D" stroke-width="6"/>
-        </svg>
+        </svg> ]
       "sizes": "512x512",
       "type": "image/png"
     }
